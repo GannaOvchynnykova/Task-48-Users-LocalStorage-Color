@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(7, 29, 75);
+}
+
+.wrapper {
+    width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+li {
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    list-style: none;
+    text-align: left;
+    background-color: bisque;
+    width: 50%;
+    line-height: 35px;
+    font-size: 1.5rem;
+}
